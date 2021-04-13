@@ -1,6 +1,10 @@
 # CobaltStrike-Servers-C2
 Cobalt Strike Servers/C2
 
+
+Cobalt Strike using Amazon profiles</br>
+https://gist.github.com/MichaelKoczwara/9b74fe4f27d4f762e8a263044e99c354
+
 Cobalt Strike servers/C2 April 2021</br>
 https://gist.github.com/MichaelKoczwara/f0fe27e266a8d6f7959f342632e1abf3
 
@@ -27,3 +31,4 @@ https://gist.github.com/MichaelKoczwara/0919598da74a844f923033ea5d97379c
 
 Cobalt Strike/C2 & Metasploit servers</br>
 https://gist.github.com/MichaelKoczwara/3a0037ad46c373bc71a6e22daf69d70e
+
